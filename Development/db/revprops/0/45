@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-07-28T23:27:29.859375Z
+K 7
+svn:log
+V 142
+VFMPC
+
+made the chkvalidation in PI, negative to positive.
+equals in debitvalue and totalprice.
+
+negative value made to positive before saving
+END

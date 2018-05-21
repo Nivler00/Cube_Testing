@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-06-10T01:01:48.921875Z
+K 7
+svn:log
+V 232
+added codes for getting the maximum ctlnumber of stock transfer table due to error in duplicate trctlno.
+uses the ctlno for transsum if stock transfer table has already data inside.
+
+not yet tested for the old data of stock transfer
+END

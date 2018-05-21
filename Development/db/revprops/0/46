@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-07-30T18:12:47.734375Z
+K 7
+svn:log
+V 95
+mavenco
+
+in clientmaster form 
+in button edit, put if statement for mavenco only editclientinfo
+END

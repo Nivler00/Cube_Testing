@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-07-18T17:36:06.000000Z
+K 7
+svn:log
+V 127
+vfmpc
+
+enable pi date in editing
+put trappings for the amounts (debit, credit and matching the variance and transaction amount)
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-06-03T11:12:11.234375Z
+K 7
+svn:log
+V 115
+revised code in the browsing of items 
+sql code was updated. zero balance and group by location and item is updated
+END

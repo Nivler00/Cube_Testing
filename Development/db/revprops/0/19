@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-06-26T22:04:26.578125Z
+K 7
+svn:log
+V 103
+vfmpc
+
+reupdate the frminv_pi_cr 
+instead of end_qty in calculation of variance, begin_qty will be used
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-07-21T21:35:10.328125Z
+K 7
+svn:log
+V 68
+all clients
+
+changed cnn to cnnx in frmInv_Po in TAG_DOC.
+
+7-22-2017
+END

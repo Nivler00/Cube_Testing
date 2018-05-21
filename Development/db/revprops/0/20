@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-06-26T23:01:36.000000Z
+K 7
+svn:log
+V 98
+mavenco
+
+update in duplicate of OR/DOCNo.
+trap the duplication of OR/DOCNO on the following day.
+
+
+END

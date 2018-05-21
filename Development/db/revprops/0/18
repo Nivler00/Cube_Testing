@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-06-26T20:56:20.515625Z
+K 7
+svn:log
+V 173
+vfmpc reupdate
+
+reupdate the reporting for PI
+reupdate the error in saving an old transaction without the gl/sl entries
+
+update the frmInv_PO_rptFrm, disabled the grouptree.
+END

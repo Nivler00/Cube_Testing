@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-06-29T19:28:27.687500Z
+K 7
+svn:log
+V 133
+vfmpc test for report presentation
+
+ommit the original code and used the pidtl qty and picount instead for the presentation of report
+END

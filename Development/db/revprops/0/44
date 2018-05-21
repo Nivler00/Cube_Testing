@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+Dandy
+K 8
+svn:date
+V 27
+2017-07-28T18:28:57.531250Z
+K 7
+svn:log
+V 101
+vfmpc
+
+put ABS if the total is negative in PI, it will change to positive amount in debit and credit
+
+END
